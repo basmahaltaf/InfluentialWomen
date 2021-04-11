@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightblue; 
+}
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgreen; 
+}
+
+.container3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgrey; 
+}
+
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 100%
+}
+
+.post-content {
+  font-size: 20px;
+  padding-left: 20px;
+}
